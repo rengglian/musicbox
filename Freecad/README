@@ -1,0 +1,12 @@
+OS: Arch Linux
+Word size of OS: 64-bit
+Word size of FreeCAD: 64-bit
+Version: 0.18.16111 (Git)
+Build type: Release
+Branch: makepkg
+Hash: 0dc75267fee2af948c3085002a2cc61758cc5b30
+Python version: 3.7.3
+Qt version: 5.12.2
+Coin version: 4.0.0a
+OCC version: 7.3.0
+Locale: C/Default (C)
